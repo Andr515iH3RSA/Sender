@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Modtager\Sender.csproj", "{F911C50A-3B2D-40CA-98CB-1489B6C0AD35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F911C50A-3B2D-40CA-98CB-1489B6C0AD35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F911C50A-3B2D-40CA-98CB-1489B6C0AD35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F911C50A-3B2D-40CA-98CB-1489B6C0AD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F911C50A-3B2D-40CA-98CB-1489B6C0AD35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3908D38F-2F68-45EE-B063-FAD7AE1A44FF}
+	EndGlobalSection
+EndGlobal
